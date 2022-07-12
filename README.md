@@ -23,7 +23,8 @@
 ```
 ## Image Source
 https://res.cloudinary.com/dxayftnxb/image/upload/v1579716447/hero-desktop_ce8lgg.jpg
-
+## Background Image
+https://i.pinimg.com/736x/50/69/61/5069613b363dc9f5c0bc4c9824ab26b7--background-hd-wallpaper-wallpaper-pc.jpg
 
 ### Continued development
 I am able to code with Html and Css but still learning JavaScript to make it user interactive 
