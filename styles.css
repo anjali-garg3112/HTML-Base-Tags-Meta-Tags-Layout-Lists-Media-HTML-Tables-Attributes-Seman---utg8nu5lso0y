@@ -64,7 +64,10 @@ h3{
     
   }
   .attribution{
-      font-size: xs-small;
+      font-size: x-small;
+      right: 35px;
+      
+    
   }
 
 }
