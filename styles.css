@@ -64,8 +64,9 @@ h3{
     
   }
   .attribution{
-    width:100%;
+    width:80%;
     display:block;
+    right:0;
   }
 
 }
