@@ -55,3 +55,15 @@ h3{
   font-style: italic;
 }
 
+@media only screen and (max-width:700px){
+  .container{
+      width:100%;
+    position: absolute;
+    top:75px;
+    right:0;
+    
+  }
+
+}
+  
+  
