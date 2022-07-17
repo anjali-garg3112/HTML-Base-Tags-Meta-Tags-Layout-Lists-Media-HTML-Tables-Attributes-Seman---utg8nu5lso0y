@@ -59,7 +59,7 @@ h3{
   .container{
   display:flex;
   justify-content: left;
-  height: 445.990px;
+  height: 200px;
   margin: auto;
   border-radius:10px;
   width:480px;
@@ -68,8 +68,8 @@ h3{
   
   #content{
   background-color: hsl(0, 0%, 100%);
-  height:445.990px;
-  width:540px;
+  height:200px;
+  width:240px;
   box-sizing: border-box;
   font-family: 'Inter', sans-serif;
 }
