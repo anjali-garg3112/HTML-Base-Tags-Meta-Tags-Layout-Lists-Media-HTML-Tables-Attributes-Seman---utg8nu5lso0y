@@ -26,4 +26,4 @@
 I am able to code with Html and Css but still learning JavaScript to make it user interactive 
 
 ## About 
-This project is a simple interview prepration question page
+This project is a simple Google engine page i.e. A search bar where you can write your query and can search for the solution further.
